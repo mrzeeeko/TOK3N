@@ -295,7 +295,7 @@ def crack():
     os.system('clear')
     print logo
     print ''
-    print '\x1b[1;0m 1. \033[1;92mClone 3 Links\033[0m \n 2. \033[1;92mClone Single id
+    print '\x1b[1;0m [1] \033[1;92mClone 3 Links\033[0m \n[2] \033[1;92mClone Single id
     print ''
     crack_select()
 
